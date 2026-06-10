@@ -1,1 +1,1 @@
-# simpeg
+simpeg.github.io
